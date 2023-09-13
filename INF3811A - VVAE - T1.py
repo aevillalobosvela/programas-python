@@ -1,3 +1,9 @@
+""" INF 3811 A - Ingenieria de Software II
+
+    Univ. Villalobos Vela Alvaro Edwin
+
+    Realizar funciones y clases 5 las que deseen  """
+
 # Ejercicio 1
 # Clase calculadora con funciones para dos valores ingresados
 
